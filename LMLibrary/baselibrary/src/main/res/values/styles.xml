@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="LT_BASE.Dialog" parent="android:Theme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowActionBar" tools:ignore="NewApi">false</item>
+        <item name="android:windowActionModeOverlay" tools:ignore="NewApi">true</item>
+        <item name="android:windowCloseOnTouchOutside" tools:ignore="NewApi">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
+        <item name="sdlTextPrimaryColor">@color/sdl_text_primary_light</item>
+        <item name="sdlTextSecondaryColor">@color/sdl_text_secondary_light</item>
+        <item name="sdlDividerColor">@color/sdl_divider_light</item>
+        <item name="sdlPressedColor">@color/sdl_pressed_light</item>
+        <item name="sdlButtonBackground">@drawable/base_dialog_button</item>
+        <item name="sdlListSelector">@drawable/base_dialog_list</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowBackground">@color/transparent</item>
+    </style>
+
+    <style name="ProgressHUD" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

@@ -1,0 +1,89 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!-- grid size -->
+    <dimen name="grid_1">4dp</dimen>
+    <!-- one square in grid -->
+    <dimen name="grid_2">8dp</dimen>
+    <dimen name="grid_3">12dp</dimen>
+    <dimen name="grid_4">10dp</dimen>
+    <dimen name="grid_5">20dp</dimen>
+    <dimen name="grid_6">10dp</dimen>
+    <dimen name="grid_7">28dp</dimen>
+    <dimen name="grid_8">32dp</dimen>
+    <dimen name="grid_9">36dp</dimen>
+    <dimen name="grid_10">40dp</dimen>
+    <dimen name="grid_11">44dp</dimen>
+    <dimen name="grid_12">48dp</dimen>
+    <dimen name="grid_13">52dp</dimen>
+    <dimen name="grid_14">56dp</dimen>
+    <dimen name="grid_15">60dp</dimen>
+    <dimen name="grid_16">64dp</dimen>
+    <dimen name="grid_17">68dp</dimen>
+    <dimen name="grid_18">72dp</dimen>
+    <dimen name="grid_20">80dp</dimen>
+    <dimen name="grid_26">104dp</dimen>
+    <dimen name="grid_27">108dp</dimen>
+    <dimen name="grid_28">112dp</dimen>
+    <dimen name="grid_43">172dp</dimen>
+    <dimen name="grid_44">176dp</dimen>
+    <dimen name="grid_45">180dp</dimen>
+    <dimen name="grid_46">184dp</dimen>
+    <dimen name="grid_55">220dp</dimen>
+    <dimen name="grid_57">228dp</dimen>
+    <dimen name="grid_58">232dp</dimen>
+    <dimen name="grid_90">360dp</dimen>
+
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="layout_navbar_height">40dp</dimen>
+    <dimen name="layout_tab_height">60dp</dimen>
+    <dimen name="layout_main_title_height">55dp</dimen>
+    <dimen name="layout_product_item_height">40dp</dimen>
+    <dimen name="layout_main_moniter_setting_height">55dp</dimen>
+    <dimen name="layout_main_market_taskitem">80dp</dimen>
+    <dimen name="layout_main_info_height">88dp</dimen>
+    <dimen name="layout_main_title">22sp</dimen>
+    <dimen name="layout_main_title_category">25dp</dimen>
+    <dimen name="layout_main_title_state">25dp</dimen>
+    <dimen name="layout_main_title_top">20dp</dimen>
+    <dimen name="layout_main_title_filter">10dp</dimen>
+    <dimen name="layout_f_title_left">30dp</dimen>
+    <dimen name="layout_main_edit_top">20dp</dimen>
+    <dimen name="layout_main_edit_left">5dp</dimen>
+    <dimen name="layout_main_edit_right">5dp</dimen>
+    <dimen name="layout_main_edit_paddingtop">8dp</dimen>
+    <dimen name="layout_main_edit_paddingbottom">8dp</dimen>
+    <dimen name="layout_main_line">1px</dimen>
+    <dimen name="layout_main_line_2px">2px</dimen>
+    <dimen name="layout_main_fast1">68dp</dimen>
+    <dimen name="layout_main_button">88dp</dimen>
+    <dimen name="layout_main_fast1_top">8dp</dimen>
+    <dimen name="layout_main_fast1_topofstate">12dp</dimen>
+    <dimen name="layout_main_fast1_right">20dp</dimen>
+    <dimen name="layout_main_fast1_left">22dp</dimen>
+    <dimen name="layout_main_fast1_statusright">5dp</dimen>
+    <dimen name="layout_market_task_left">5dp</dimen>
+    <dimen name="layout_f_ok_right">30dp</dimen>
+    <dimen name="moniter_paddingRight">12dp</dimen>
+    <dimen name="moniter_paddingRight1">12dp</dimen>
+    <dimen name="moniter_paddingLeft">14dp</dimen>
+    <dimen name="moniter_paddingLeft1">12dp</dimen>
+    <dimen name="moniter_paddingLeft2">3dp</dimen>
+    <dimen name="moniter_paddingLeft3">6dp</dimen>
+    <dimen name="textsize_main_title_size">15dip</dimen>
+    <dimen name="monitor_module_height">100dp</dimen>
+    <dimen name="monitor_module_out_height">160dp</dimen>
+    <dimen name="monitor_module_title_height">60dp</dimen>
+    <dimen name="monitor_module_padding">10dp</dimen>
+
+    <!--新增加气模块-->
+    <dimen name="dimen_pay_license_magrin">20sp</dimen>
+    <dimen name="dimen_pay_license_margin_plate">15sp</dimen>
+    <dimen name="dimen_pay_license_plate_left">15dp</dimen>
+
+    <dimen name="layout_main_top_margin">0dp</dimen>
+    <dimen name="map_layout_margin">10dp</dimen>
+
+    <dimen name="layout_main_top_layout_margin">10dp</dimen>
+</resources>

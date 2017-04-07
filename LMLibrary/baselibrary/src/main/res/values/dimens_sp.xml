@@ -1,0 +1,32 @@
+<resources>
+    <!--辅助字体 最小的一种字体-->
+    <dimen name="assist_font_size">12sp</dimen>
+    <dimen name="verification_font_size">14sp</dimen>
+    <!--常规字体 用于主要显示的一种字体-->
+    <dimen name="stock_font_size">15sp</dimen>
+    <!--大号字体 一般用在需要大号主要显示的字体-->
+    <dimen name="big_font_size">18sp</dimen>
+    <!--最大号字体 一般用在大标题上 最大号的字体-->
+    <dimen name="title_font_size">22sp</dimen>
+
+    <dimen name="layout_main_title_scan">16sp</dimen>
+    <dimen name="monitor_newproduct_item">22sp</dimen>
+    <dimen name="account">18sp</dimen>
+    <dimen name="monitor_setting_item">22sp</dimen>
+    <dimen name="monitor_setting_desc_item">18sp</dimen>
+    <dimen name="monitor_info_item">22sp</dimen>
+    <dimen name="monitor_info_desc_item">18sp</dimen>
+    <dimen name="monitor_info_desc_item1">16sp</dimen>
+    <dimen name="monitor_oldproduct_state_item">18sp</dimen>
+    <dimen name="layout_main_fast1_title">22sp</dimen>
+    <dimen name="layout_main_fast1_alarm">18sp</dimen>
+    <dimen name="layout_main_fast1_state">14sp</dimen>
+    <dimen name="layout_market_task">12sp</dimen>
+    <dimen name="layout_market_taskdate">12sp</dimen>
+    <dimen name="market_textSize">13sp</dimen>
+    <dimen name="market_textSize1">15sp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+
+
+
+</resources>

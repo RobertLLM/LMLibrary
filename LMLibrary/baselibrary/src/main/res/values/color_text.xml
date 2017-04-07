@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_text_black">#333333</color>
+    <color name="color_text_gray1">#2d2f3e</color>
+    <color name="color_text_white">#FFFFFF</color>
+    <color name="color_text_grayness">#50FFFFFF</color>
+    <color name="color_text_yello">#ebb447</color>
+    <color name="color_text_deep_yello">#f9a567</color>
+    <color name="color_text_deep_yello2">#ee8c44</color>
+    <color name="color_text_white1">#FFFFFF</color>
+    <color name="color_text_blue">#1186D7</color>
+    <color name="color_text_gray">#808282</color>
+    <color name="color_text_gray_black">#3b4a60</color>
+    <color name="color_text_alarm">#ff7373</color>
+    <color name="color_text_pay_red">#f54d19</color>
+    <color name="color_text_red">#fa8966</color>
+    <color name="color_text_fast1">#ffffff</color>
+    <color name="color_text_state">#969696</color>
+    <color name="color_text_green">#00d7a9</color>
+    <color name="color_text_shallow_green">#3fbfb0</color>
+    <color name="color_text_ligth_gray">#969cbf</color>
+    <color name="color_text_ligth_white">#e2e4f6</color>
+    <!--字体的颜色-->
+    <color name="color_text_login">#21c996</color>
+    <color name="color_text_login_p">#0cb491</color>
+    <color name="color_text_black_new">#343434</color>
+    <color name="color_text_black_item">#666666</color>
+    <color name="color_text_verification">#AAAAAA</color>
+    <color name="color_text_exit">#f58383</color>
+
+    <color name="color_text_2e3444">#2e3444</color>
+    <color name="color_text_444444">#444444</color>
+    <color name="color_text_aaaaaa">#aaaaaa</color>
+    <color name="color_text_f58383">#f58383</color>
+    <color name="color_text_f3fdf7b">#3fdf7b</color>
+    <color name="color_text_00d0a5">#00d0a5</color>
+    <color name="color_text_666666">#666666</color>
+    <color name="color_text_cccccc">#cccccc</color>
+    <color name="color_text_fcfcfc">#fcfcfc</color>
+
+</resources>

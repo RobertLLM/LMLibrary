@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_background">#2d303e</color>
+    <color name="color_bg">#ecedf3</color>
+    <color name="color_edit">#cccccc</color>
+    <color name="color_background_dark">#232331</color>
+    <color name="color_background_transparent">#e0000000</color>
+    <color name="color_line">#5F5F5F</color>
+    <color name="color_liquid_level">#4b4d59</color>
+    <color name="color_liquid">#418ee9</color>
+    <color name="color_green_bg">#1ac995</color>
+    <color name="color_item_bg">#f7f7f7</color>
+</resources>

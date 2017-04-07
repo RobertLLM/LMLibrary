@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/layout_main_title_height"
+    android:background="@color/color_background">
+
+    <TextView
+        android:id="@+id/list_header_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/monitor_newproduct_left"
+        android:text="分类"
+        android:textColor="@color/color_text_white"
+        android:textSize="@dimen/title_font_size" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/layout_main_line"
+        android:layout_alignParentBottom="true"
+        android:background="@color/layout_main_line" />
+
+</RelativeLayout><!--<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list_header_title"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="2dip"
+    android:paddingBottom="2dip"
+    android:paddingLeft="5dip"
+    style="?android:attr/listSeparatorTextViewStyle" />-->
